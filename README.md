@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Bruno Micael Cardoso da Silva
 
-<!--
-**BrunoMicael-tib/BrunoMicael-tib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (3º semestre)  
+💻 Apaixonado por programação, especialmente desenvolvimento back-end  
+🚀 Sempre em busca de aprender e evoluir na área de tecnologia  
 
-Here are some ideas to get you started:
+## 🧠 Tecnologias e Ferramentas
+- Java (Orientação a Objetos)  
+- Python (Orientação a Objetos)  
+- Git e GitHub (nível básico, aprendendo na prática)  
+- Redes de computadores e manutenção de hardware  
+- Pacote Office  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Atualmente estou:
+- Buscando uma oportunidade de estágio na área de desenvolvimento back-end  
+- Estudando Java e Python com foco em lógica e estrutura  
+
+## 📂 Projetos
+- 🎮 Jogo 2D feito no GameMaker (em breve aqui no GitHub)
+- 🛠️ Pretendo adicionar pequenos projetos em Java e Python em breve
+
+## 📫 Contato
+- Email: brunoads2005@gmail.com  
+- LinkedIn:[Meu perfil](https://www.linkedin.com/in/bruno-micael-cardoso-silva-a208b323b)
